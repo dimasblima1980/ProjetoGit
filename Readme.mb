@@ -2,5 +2,13 @@
 Aprenda como usar Git
 <br>
 Isso é uma alteração 
+
+Use os codigo no Git bash: (clear para limpar)
+git add .
+git commit -m "texto" 
+git push origin main
+
+Para Nova branch
+git checkout -b "texto"
 <br>
 Temos uma aula no YouTube: https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini

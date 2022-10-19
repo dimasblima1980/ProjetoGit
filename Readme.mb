@@ -8,6 +8,12 @@ git add .
 git commit -m "texto" 
 git push origin main
 
+Voltar para branch
+git checkout main
+
+junta branch (junta branch nova com a main)
+git merge nova
+
 Para Nova branch
 git checkout -b "texto"
 <br>
